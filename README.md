@@ -13,6 +13,15 @@ C:> python -m pip install django pillow python-git
 C:> git clone https://github.com/abhi-bhatra/portfolio-django.git
 C:> cd portfolio-django
 ```
+- Open portfolio-django folder
+- Open jobs\static folder
+> PASTE YOUR IMAGE HERE
+- Open jobs\template folder
+- Open home.html
+> Change COPY YOUR TEXT HERE with you own code
+- Open detail.html
+> Change COPY YOUR TEXT HERE with you own code
+- Open Command Prompt and type:
 ```shell
 C:> python manage.py makemigrations
 C:> python manage.py migrate
