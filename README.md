@@ -29,3 +29,6 @@ C:> python manage.py collectstatic
 C:> python manage.py createsuperuser
 C:> python manage.py runserver
 ```
+---
+## What's Next?
+> After successfully deploying app through Django offline, follow along for hosting on Azure VM
